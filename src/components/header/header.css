@@ -28,7 +28,7 @@ header{
     gap: 0.8 rem;
     position: absolute;
     left: 0;
-    
+
     bottom: 5rem;
 }
 
@@ -63,6 +63,7 @@ header{
     font-weight: 300;
     font-size: 0.9rem;
 }
+
 
 /*========media queries=========*/
 @media screen and (max-width: 1024px){
