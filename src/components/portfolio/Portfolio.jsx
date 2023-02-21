@@ -5,6 +5,7 @@ import IMG2 from '../../assests/portfolio2.png'
 import IMG3 from '../../assests/portfolio3.png'
 import IMG4 from '../../assests/portfolio4.png'
 import IMG5 from '../../assests/portfolio5.png'
+import IMG6 from '../../assests/portfolio6.png'
 
 const data = [
     {
@@ -40,6 +41,12 @@ const data = [
         image: IMG5,
         title: 'A Social Platform to post and interact: Social Mountain',
         github: 'https://github.com/AmmarahZaveri/Social-Mountain-reactt',
+    },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'A Country Explorer Website with information on any country',
+        github: 'https://github.com/AmmarahZaveri/react-proj-5',
     },
 ]
 
